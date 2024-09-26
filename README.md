@@ -1,7 +1,5 @@
 # Multiple-choice_test_program-DeTai11-OOP
-Đồ án môn Lập Trình Hướng Đối Tượng
-
-Ngôn ngữ: C#
+Đồ án môn Lập Trình Hướng Đối Tượng - C#
 # Thành viên:
 | Họ Tên                             |
 | :------------------------------------ |
