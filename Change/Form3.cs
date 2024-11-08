@@ -95,12 +95,7 @@ namespace Multiple_choice_test_program
         }
         private void button1_Click(object sender, EventArgs e)
         {
-
-            /*
             SaveExamRecord();
-
-
-            */
             Form1 form1 = new Form1();
             form1.Show();
             form1.Location = Location;
