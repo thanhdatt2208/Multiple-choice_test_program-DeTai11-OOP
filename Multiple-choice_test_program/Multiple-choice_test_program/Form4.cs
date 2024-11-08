@@ -14,7 +14,6 @@ namespace Multiple_choice_test_program
 {
     public partial class Form4 : Form
     {
-        private Result ExamRecord= new Result();
         public Form4()
         {
             InitializeComponent();
